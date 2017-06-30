@@ -1,9 +1,6 @@
 {
-  "name": "jquery-plugin",
-  "version": "0.1.1-ignored",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
+  "name": "jquery.waiting",
+  "version": "0.1.1",
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
     "grunt-contrib-concat": "~0.1.2",
