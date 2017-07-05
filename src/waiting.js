@@ -1,4 +1,4 @@
-/*
+/*!
  * jquery.waiting
  * https://github.com/Novascreen/jquery.waiting
  *
